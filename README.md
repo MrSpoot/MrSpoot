@@ -3,7 +3,7 @@
 
 - 🧠 I’m currently learning **OpenGL & Rust**
 - 🤝 I'm open to collaborating on various types of projects
-- 🪛 I'm currently building a small autonomous meterological station
+- 🪛 I'm currently building a minecraft clone
 
 ---
 
